@@ -8,6 +8,7 @@ Repo name says it all - a simple list of allow / Deny list examples to make agen
 - cd [0-9a-zA-Z.]+
 - npm test
 - npm run test
+- npm run lint
 ### Some questions
 
 ### Examples of possibilities - community doesnt suggest they're wise
