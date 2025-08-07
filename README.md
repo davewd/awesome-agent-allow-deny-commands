@@ -21,3 +21,8 @@ Repo name says it all - a simple list of allow / Deny list examples to make agen
 ### May cause some harm
 
 ### USe at your own peril - no community consensus as to above two lists
+
+
+
+Security Discussion Articles:
+- [https://www.backslash.security/blog/cursor-ai-security-flaw-autorun-denylist](https://www.backslash.security/blog/cursor-ai-security-flaw-autorun-denylist)
