@@ -17,7 +17,7 @@ Repo name says it all - a simple list of allow / Deny list examples to make agen
 
 ### No Drama's everyone agrees
 - .*rm -rf.*
-- curl * | sh
+- curl .* | sh
 - bash
 
 ### May cause some harm
