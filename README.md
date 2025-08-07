@@ -5,7 +5,9 @@ Repo name says it all - a simple list of allow / Deny list examples to make agen
 ##  github.copilot.chat.agent.terminal.allowList
 
 ### No Drama's everyone agrees
-
+"cd [0-9a-zA-Z.]+"
+"npm test"
+"npm run test"
 ### Some questions
 
 ### Examples of possibilities - community doesnt suggest they're wise
@@ -14,6 +16,7 @@ Repo name says it all - a simple list of allow / Deny list examples to make agen
 ##   github.copilot.chat.agent.terminal.denyList
 
 ### No Drama's everyone agrees
+/.*/rm -rf/.*/
 
 ### May cause some harm
 
