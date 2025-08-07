@@ -16,7 +16,7 @@ Repo name says it all - a simple list of allow / Deny list examples to make agen
 ##   github.copilot.chat.agent.terminal.denyList
 
 ### No Drama's everyone agrees
-/.*/rm -rf/.*/
+.*rm -rf.*
 
 ### May cause some harm
 
