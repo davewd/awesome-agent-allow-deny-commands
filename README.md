@@ -146,4 +146,5 @@ Repo name says it all - a simple list of allow / Deny list examples to make agen
 
 
 Security discussion articles:
+- [First Zero-Click Vulnerability](https://www.aim.security/lp/aim-labs-echoleak-blogpost)
 - [Cursor AI Security Flaw: Autorun Denylist](https://www.backslash.security/blog/cursor-ai-security-flaw-autorun-denylist)
